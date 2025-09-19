@@ -1,2 +1,3 @@
 *.bak
 *.beforefix
+.ipynb_checkpoints/
